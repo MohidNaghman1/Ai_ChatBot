@@ -30,7 +30,7 @@ The app is intended as a prototype/demo to showcase LangChain integration with H
 
 For faster and more scalable usage, consider running models locally or on dedicated GPU servers.
 
-How to Run
+**How to Run**
 Clone the repo
 
 Create and activate a Python environment
@@ -41,7 +41,7 @@ Set your Hugging Face API token in .env file
 
 Run streamlit run app.py
 
-Future Work
+**Future Work**
 Support for local model inference to reduce latency
 
 Add more customizable model parameters
