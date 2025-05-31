@@ -3,8 +3,8 @@ https://github.com/user-attachments/assets/c2076f75-a5bf-4433-852e-e8bf6f97157e
 Uploading AI Chatbot - Opera 2025-05-31 02-57-45.mp4…
 
 
-**AI Chatbot with LangChain, HuggingFace, and Streamlit
-This is a simple AI chatbot web app built with:**
+***AI Chatbot with LangChain, HuggingFace, and Streamlit
+This is a simple AI chatbot web app built with:***
 
 LangChain — for easy integration and chaining of LLMs
 
